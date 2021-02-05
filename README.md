@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-Implement the border draging of flutter desktop version
-实现了flutter桌面版的边框拖拽
+Implement resizing the border of flutter desktop version
+
+实现了flutter桌面版的边框拖拽.
